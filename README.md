@@ -142,5 +142,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@My-Github](https://github.com/N176)
+- LinkedIn: [My-LinkedIn](https://linkedin.com/in/nazish-ali-7b09a0257)
